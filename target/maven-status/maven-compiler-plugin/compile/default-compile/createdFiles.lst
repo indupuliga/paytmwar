@@ -1,0 +1,7 @@
+paytm\JAXRSConfiguration.class
+paytm\business\JobBusiness.class
+paytm\resource\JobResource.class
+paytm\entity\Job.class
+paytm\dao\JobDao.class
+paytm\entity\Entity.class
+paytm\dao\Dao.class
